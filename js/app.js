@@ -229,4 +229,3 @@ function newSetOfCards() {
     }
 }
 
-//TO DO: dd CSS animations when cards are clicked, unsuccessfully matched, and successfully matched to make project stand out
