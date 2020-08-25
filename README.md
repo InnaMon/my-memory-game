@@ -9,7 +9,7 @@
 
 ## Installation
 
-No specific installation is required to play this game. Simply unzip the file and open the index.html file in a web browser of your choice!
+No specific installation is required to play this game. Simply open the link in a browser of your choice!
 Important to note that no additional libraries or dependencies were installed or required for this project. 
 
 ## How to Play!
